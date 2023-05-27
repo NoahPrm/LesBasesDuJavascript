@@ -54,3 +54,36 @@ La différence entre **let** et **var**, aucune. Par contre, entre **const** et 
 ## 3. Numbers
 ### Aide : fichier numbers.js
 Rien à dire, tout est dans le fichier aide.
+
+## 4. Maths
+### Aide : fichier maths.js
+**Math.floor()** = Arrondi un nombre. Ex : 17.6 => 17 // 49.3 => 17 // 85.9 => 89
+
+**Math.round** = Arrondi un nombre. Ex = 49.3 => 49 // 12.9 => 13
+
+**Math.random** = Genère un nombre.
+
+## 5. Arrays
+### Aide : fichier arrays.js
+**array.filter** = Filtrer l'array
+
+**array.sort** = Range d'ans l'odre l'array (a - b => décroissant || b - a => croissant)
+
+**array.split** = Sépare les valeurs
+
+**array.join** = Fusionne les valeurs
+
+**array.includes** = Si inclus la valeure
+
+**array.find** = Recherche une valeure
+
+**array.push** = Rajoute une valeure dans l'array
+
+**array.map** = Met un style à l'array
+
+**array.length** = Le nombre de valeur dans l'array
+
+**array.forEach** = Fait uen boucle pour chaque valeur
+
+# C'est la fin des bases du JavaScript !
+Si vous souhaités en apprendre plus, des vidéos YouTubes sont disponibles !
