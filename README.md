@@ -50,3 +50,7 @@ La différence entre **let** et **var**, aucune. Par contre, entre **const** et 
 **try catch** = Le code après le try vas s'effectuer mais s'il y a une erreur, ce qui a après le catch vas s'effectuer
 
 **module.exports** = exporte le code
+
+## 3. Numbers
+### Aide : fichier numbers.js
+Rien à dire, tout est dans le fichier aide.
