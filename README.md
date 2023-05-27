@@ -10,3 +10,10 @@ Un **object**, c'est une/plusieurs valeurs entre des accolades. Il est souvent u
 **/\*function\*/** c'est une fonction. Ex : f = function() {
     console.log("test").
 }
+**Un boolean**, c'est soit True, soit False.
+**Un undefined** c'est undefined, c'est à dire : quelque chose d'indéfini.
+**null** = null, c'est rien.
+
+Si l'on ne sait pas quelle est le type d'un variable, on peut faire ceci : variable= text.text;
+console.log(typeof variable)
+Ceci vas écrire dans la console le type de la variable demandée.
